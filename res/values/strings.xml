@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">煎蛋缘</string>
+    <string name="action_search">搜索</string>
+    <string name="action_plus">功能</string>
+    <string name="action_album">我的相册</string>
+    <string name="action_collection">我的收藏</string>
+    <string name="action_card">我的银行卡</string>
+    <string name="action_settings">设置</string>
+    <string name="plus_add_movie">添加电影</string>
+    <string name="plus_add_shuoshuo">添加说说</string>
+    <string name="plus_add_note">添加记事</string>
+
+</resources>
